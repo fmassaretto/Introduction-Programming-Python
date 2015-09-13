@@ -1,3 +1,4 @@
+
 def getNames():
     names = ['Christopher', 'Susan', 'Danny']
     newName = input('Enter last guest: ')
